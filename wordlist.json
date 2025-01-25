@@ -1,0 +1,2366 @@
+[
+    {
+        "id" : 1,
+        "word": "every morning",
+        "type" : "adv",
+        "japanese": {
+            "meaning": "毎朝",
+            "hiragana" : "まいあさ",
+            "romaji" : "maiasa",
+            "level" : 5
+        },
+        "chinese" : {
+            "meaning" : "每天早上",
+            "pinyin" :  "měi tiān zǎo shan"
+        },
+        "burmese": {
+            "meaning" : "မနက်တိုင်း"
+        },
+        "korean" : {
+            "meaning" : "매일 아침",
+            "reading" : "maeil achim"
+        }
+    },
+    {
+        "id" : 2,
+        "word": "problem",
+        "type" :"noun",
+        "japanese": {
+            "meaning": "問題",
+            "hiragana" : "もんだい",
+            "romaji" : "mondai",
+            "level" : 5
+        },
+        "chinese" : {
+            "meaning" : "问题",
+            "pinyin" :  "wèn tí"
+            
+        },
+        "burmese": {
+            "meaning" : "ပြဿနာ"
+        },
+        "korean" : {
+            "meaning" : "문제 ",
+            "reading" : "munje"
+        }
+    },
+    {
+        "id" : 3,
+        "word": "green tea",
+        "type":"noun",
+        "japanese": {
+            "meaning": "お茶",
+            "hiragana" : "おちゃ",
+            "romaji" : "ocha",
+            "level" : 5
+        },
+        "chinese" : {
+            "meaning" : "绿茶",
+            "pinyin" :  "lǜ chá"
+        },
+        "burmese": {
+            "meaning" : "ပြဿနာ"
+        },
+        "korean" : {
+            "meaning" : "녹차",
+            "reading" : "nokcha"
+        }
+    },
+    {
+        "id" : 4,
+        "word": "black",
+        "type":"noun",
+        "japanese": {
+            "meaning": "黒",
+            "hiragana" : "くろ",
+            "romaji" : "kuro",
+            "level" : 5
+        },
+        "chinese" : {
+            "meaning" : "黑色",
+            "pinyin" :  "hēi sè"
+        },
+        "burmese": {
+            "meaning" : "အမည်းရောင်"
+        },
+        "korean" : {
+            "meaning" : "검은색",
+            "reading" : "geomeunsaek"
+        }
+    },
+    {
+        "id" : 5,
+        "word": "kitchen",
+        "type":"noun",
+        "japanese": {
+            "meaning": "台所",
+            "hiragana" : " だいどころ/キッチン",
+            "romaji" : "daidokoro",
+            "level" : 5
+        },
+        "chinese" : {
+            "meaning" : "厨房",
+            "pinyin" :  "chú fáng"
+        },
+        "burmese": {
+            "meaning" : "မီးဖိုချောင်"
+        },
+        "korean" : {
+            "meaning" : "부엌/ 주방",
+            "reading" : "bu-eok/ju-bang"
+        }
+    },
+    {
+        "id" : 6,
+        "type":"noun",
+        "word": "postcard",
+        "japanese": {
+            "meaning": "葉書",
+            "hiragana" : "はがき",
+            "romaji" : "hagaki",
+            "level" : 5
+        },
+        "chinese" : {
+            "meaning" : "明信片",
+            "pinyin" :  "míng xìn piàn"
+        },
+        "burmese": {
+            "meaning" : "ပိုစ့်ကတ်"
+        },
+        "korean" : {
+            "meaning" : "엽서",
+            "reading" : "yeopseo"
+        }
+    },
+    {
+        "id" : 7,
+        "word": "pen",
+        "type":"noun",
+        "japanese": {
+            "meaning": "ペン",
+            "hiragana" : "",
+            "romaji" : "pen",
+            "level" : 5
+        },
+        "chinese" : {
+            "meaning" : "笔",
+            "pinyin" :  "bǐ"
+        },
+        "burmese": {
+            "meaning" : "ဘောပင်"
+        },
+        "korean" : {
+            "meaning" : "펜",
+            "reading" : "pen"
+        }
+    }, 
+    {
+        "id" : 8,
+        "word": "news",
+        "type": "noun",
+        "japanese": {
+            "meaning": "ニュース",
+            "hiragana" : "",
+            "romaji" : "nyūsu",
+            "level" : 5
+        },
+        "chinese" : {
+            "meaning" : "新闻",
+            "pinyin" :  "xīn wén"
+        },
+        "burmese": {
+            "meaning" : "သတင်း"
+        },
+        "korean" : {
+            "meaning" : "뉴스",
+            "reading" : "nyuseu"
+        }
+    },
+    {
+        "id" : 9,
+        "word": "vase",
+        "type" : "noun",
+        "japanese": {
+            "meaning": "花瓶",
+            "hiragana" : "びん",
+            "romaji" : "kibin",
+            "level" : 5
+        },
+        "chinese" : {
+            "meaning" : "花瓶",
+            "pinyin" :  "huā píng"
+        },
+        "burmese": {
+            "meaning" : "ပန်းအိုး"
+        },
+        "korean" : {
+            "meaning" : "꽃병",
+            "reading" : "kkotbyeong"
+        }
+    },
+    {
+        "id" : 10,
+        "word": "fork",
+        "type" : "noun",
+        "japanese": {
+            "meaning": "フォーク",
+            "hiragana" : "",
+            "romaji" : "fōku",
+            "level" : 5
+        },
+        "chinese" : {
+            "meaning" : "叉子",
+            "pinyin" :  "chā zi"
+        },
+        "burmese": {
+            "meaning" : "ခက်ရင်း ခက်ရင်းခွ"
+        },
+        "korean" : {
+            "meaning" : "포크",
+            "reading" : "pokeu"
+        }
+    },
+    {
+        "id" : 11,
+        "word": "to pull",
+        "type":"verb",
+        "japanese": {
+            "meaning": "引く",
+            "hiragana" : "ひく",
+            "romaji" : "hiku",
+            "level" : 5
+        },
+        "chinese" : {
+            "meaning" : "拉",
+            "pinyin" :  "lā"
+        },
+        "burmese": {
+            "meaning" : "ဆွဲသည်"
+        },
+        "korean" : {
+            "meaning" : "끌다",
+            "reading" : "kkeulda"
+        }
+    },
+    {
+        "id" : 12,
+        "word": "roll of film",
+        "type": "noun",
+        "japanese": {
+            "meaning": "フィルム",
+            "hiragana" : "",
+            "romaji" : "firumu",
+            "level" : 5
+        },
+        "chinese" : {
+            "meaning" : "胶卷",
+            "pinyin" :  "jiāo juǎn"
+        },
+        "burmese": {
+            "meaning" : "ရုပ်ရှင်ကင်မရာ ဖင်(လ်)လိပ်"
+        },
+        "korean" : {
+            "meaning" : "필름",
+            "reading" : "peulreum"
+        }
+    },
+    {
+        "id" : 13,
+        "word": "to brush, to polish",
+        "type": "verb",
+        "japanese": {
+            "meaning": "磨く",
+            "hiragana" : "みがく",
+            "romaji" : "migaku",
+            "level" : 5
+        },
+        "chinese" : {
+            "meaning" : "擦亮/抛光",
+            "pinyin" :  "cā liàng/pāo guāng"
+        },
+        "burmese": {
+            "meaning" : "ပွတ်တိုက်ခြင်း၊ပွတ်တိုက်ခြင်း"
+        },
+        "korean" : {
+            "meaning" : "닦다/광내다",
+            "reading" : "dakda/gwangnaeda"
+        }
+    },
+   {
+        "id": 14,
+        "word": "flower",
+        "type": "noun",
+        "japanese": {
+          "meaning": "花",
+          "hiragana" : "はな",
+          "romaji" : "hana",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "花",
+          "pinyin" : "huā"
+        },
+        "burmese": {
+          "meaning" : "ပန်း" 
+        },
+        "korean": {
+          "meaning" : "꽃",
+          "reading" : "kkot"
+        }
+      },
+      {
+        "id": 15,
+        "word": "water",
+        "type" : "noun",
+        "japanese": {
+          "meaning": "水",
+          "hiragana" : "みず",
+          "romaji" : "mizu",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "水",
+          "pinyin" : "shuǐ"
+        },
+        "burmese": {
+          "meaning" : "ရေ" 
+        },
+        "korean": {
+          "meaning" : "물",
+          "reading" : "mul"
+        }
+      },{
+        "id": 16,
+        "word": "to sell",
+        "type": "verb",
+        "japanese": {
+          "meaning": "売る",
+          "hiragana" : "うる",
+          "romaji" : "uru",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "卖",
+          "pinyin" : "mài" 
+        },
+        "burmese": {
+          "meaning" : "ရောင်းသည်" 
+        },
+        "korean": {
+          "meaning" : "팔다",
+          "reading" : "paldda" 
+        }
+      },
+      {
+        "id": 17,
+        "word": "electricity, electric light",
+        "type": "noun",
+        "japanese": {
+          "meaning": "電気/電灯",
+          "hiragana" : "でんき/でんとう",
+          "romaji" : "denki/dentō",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "电/电灯",
+          "pinyin" : "diàn/diàndēng" 
+        },
+        "burmese": {
+          "meaning" : "လျှပ်စစ်၊ လျှပ်စစ်မီး" 
+        },
+        "korean": {
+          "meaning" : "전기/전등",
+          "reading" : "jeongi/jeondeung" 
+        }
+      },
+      {
+        "id": 18,
+        "word": "to push, to stamp something",
+        "type" : "verb",
+        "japanese": {
+          "meaning": "押す",
+          "hiragana" : "おす",
+          "romaji" : "osu",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "推/盖章",
+          "pinyin" : "tuī/gài zhāng" 
+        },
+        "burmese": {
+          "meaning" : "တွန်းသည်။ခြေဆောင့်သည်။ဆောင့်နင်းသည်။" 
+        },
+        "korean": {
+          "meaning" : "밀다/도장을 찍다",
+          "reading" : "milda/dojang-eul jikda" 
+        }
+      },
+      {
+        "id": 19,
+        "word": "to line up, to stand in a line",
+        "type" : "verb",
+        "japanese": {
+          "meaning": "並ぶ",
+          "hiragana" : "ならぶ",
+          "romaji" : "narabu",
+          "level" : 5 
+        },
+        "chinese": {
+          "meaning" : "排队",
+          "pinyin" : "pái duì" 
+        },
+        "burmese": {
+          "meaning" : "တန်းစီသည်။" 
+        },
+        "korean": {
+          "meaning" : "줄을 서다",
+          "reading" : "juleul seoda" 
+        }
+      },
+      {
+        "id": 20,
+        "word": "illness",
+        "type": "noun",
+        "japanese": {
+          "meaning": "病気",
+          "hiragana" : "びょうき",
+          "romaji" : "byōki",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "疾病",
+          "pinyin" : "jí bìng" 
+        },
+        "burmese": {
+          "meaning" : "ရောဂါ။ဖျားသည်။နေမကောင်းဖြစ်သည်။" 
+        },
+        "korean": {
+          "meaning" : "병",
+          "reading" : "byeong" 
+        }
+      },
+      {
+        "id": 21,
+        "word": "pocket",
+        "type": "noun",
+        "japanese": {
+          "meaning": "ポケット",
+          "hiragana" : "ポケット",
+          "romaji" : "poketto",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "口袋",
+          "pinyin" : "kǒu dài" 
+        },
+        "burmese": {
+          "meaning" : "အိတ်" 
+        },
+        "korean": {
+          "meaning" : "주머니",
+          "reading" : "jumeoni" 
+        }
+      },
+      {
+        "id": 22,
+        "word": "head",
+        "type": "noun", 
+        "japanese": {
+          "meaning": "頭",
+          "hiragana" : "あたま",
+          "romaji" : "atama",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "頭",
+          "pinyin" : "tóu" 
+        },
+        "burmese": {
+          "meaning" : "ခေါင်း" 
+        },
+        "korean": {
+          "meaning" : "머리",
+          "reading" : "meori" 
+        }
+      },
+      {
+        "id": 23,
+        "word": "chopsticks",
+        "type": "noun",
+        "japanese": {
+          "meaning": "箸",
+          "hiragana" : "はし",
+          "romaji" : "hashi",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "筷子",
+          "pinyin" : "kuàizi" 
+        },
+        "burmese": {
+          "meaning" : "တူ" 
+        },
+        "korean": {
+          "meaning" : "젓가락",
+          "reading" : "jeotgarak" 
+        }
+      },
+      {
+        "id": 24,
+        "word": "english language",
+        "type": "noun",
+        "japanese": {
+          "meaning": "英語",
+          "hiragana" : "えいご",
+          "romaji" : "eigo",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "英语",
+          "pinyin" : "yīng yǔ" 
+        },
+        "burmese": {
+          "meaning" : "အင်္ဂလိပ်ဘာသာ" 
+        },
+        "korean": {
+          "meaning" : "영어",
+          "reading" : "yeong-eo" 
+        }
+      },{
+        "id": 25,
+        "word": "house",
+        "type": "noun",
+        "japanese": {
+          "meaning": "家",
+          "hiragana" : "いえ",
+          "romaji" : "ie",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "房子",
+          "pinyin" : "fáng zi" 
+        },
+        "burmese": {
+          "meaning" : "အိမ်" 
+        },
+        "korean": {
+          "meaning" : "집",
+          "reading" : "jip" 
+        }
+      },
+      {
+        "id": 26,
+        "word": "one month",
+        "type": "noun phrase", 
+        "japanese": {
+          "meaning": "一ヶ月",
+          "hiragana" : "ひとつき",
+          "romaji" : "hitotsuki",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "一个月",
+          "pinyin" : "yī gè yuè" 
+        },
+        "burmese": {
+          "meaning" : "တစ်လ" 
+        },
+        "korean": {
+          "meaning" : "한 달",
+          "reading" : "han dal" 
+        }
+      },
+      {
+        "id": 27,
+        "word": "hot",
+        "type": "adjective",
+        "japanese": {
+          "meaning": "熱い",
+          "hiragana" : "あつい",
+          "romaji" : "atsui",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "热的",
+          "pinyin" : "rè de" 
+        },
+        "burmese": {
+          "meaning" : "ပူသော" 
+        },
+        "korean": {
+          "meaning" : "뜨거운",
+          "reading" : "tteugeoun" 
+        }
+      },
+      {
+        "id": 28,
+        "word": "to play, to make a visit",
+        "type": "verb",
+        "japanese": {
+          "meaning": "遊ぶ",
+          "hiragana" : "あそぶ",
+          "romaji" : "asobu",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "玩/拜访",
+          "pinyin" : "wán/bài fǎng" 
+        },
+        "burmese": {
+          "meaning" : "ကစားသည်။သွားရောက်လည်ပတ်ခြင်း" 
+        },
+        "korean": {
+          "meaning" : "놀다/방문하다",
+          "reading" : "nolda/bangmunhada" 
+        }
+      },
+      {
+        "id": 29,
+        "word": "to take something",
+        "type": "verb",
+        "japanese": {
+          "meaning": "取る",
+          "hiragana" : "とる",
+          "romaji" : "toru",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "拿",
+          "pinyin" : "ná" 
+        },
+        "burmese": {
+          "meaning" : "ယူသည်။" 
+        },
+        "korean": {
+          "meaning" : "가져가다",
+          "reading" : "gajyeogada" 
+        }
+      },
+      {
+        "id": 30,
+        "word": "nine",
+        "type": "number",
+        "japanese": {
+          "meaning": "九",
+          "hiragana" : "きゅう",
+          "romaji" : "kyū",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "九",
+          "pinyin" : "jiǔ" 
+        },
+        "burmese": {
+          "meaning" : "ကိုး" 
+        },
+        "korean": {
+          "meaning" : "구",
+          "reading" : "gu" 
+        }
+      },{
+        "id": 31,
+        "word": "to close something",
+        "type": "verb",
+        "japanese": {
+          "meaning": "閉める",
+          "hiragana" : "しめる",
+          "romaji" : "shimeru",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "关",
+          "pinyin" : "guān" 
+        },
+        "burmese": {
+          "meaning" : "ပိတ်သည်။" 
+        },
+        "korean": {
+          "meaning" : "닫다",
+          "reading" : "datda" 
+        }
+      },
+      {
+        "id": 32,
+        "word": "very",
+        "type": "adverb",
+        "japanese": {
+          "meaning": "とても",
+          "hiragana" : "とても",
+          "romaji" : "totemo",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "非常",
+          "pinyin" : "fēi cháng" 
+        },
+        "burmese": {
+          "meaning" : "အလွန်" 
+        },
+        "korean": {
+          "meaning" : "매우",
+          "reading" : "mae-u" 
+        }
+      },
+      {
+        "id": 33,
+        "word": "(honorable) wife",
+        "type": "noun",
+        "japanese": {
+          "meaning": "奥さん",
+          "hiragana" : "おくさん",
+          "romaji" : "okusan",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "夫人",
+          "pinyin" : "fū rén" 
+        },
+        "burmese": {
+          "meaning" : "ဇနီးမောင်နှံ" 
+        },
+        "korean": {
+          "meaning" : "부인",
+          "reading" : "buin" 
+        }
+      },
+      {
+        "id": 34,
+        "word": "composition, writing",
+        "type": "noun",
+        "japanese": {
+          "meaning": "作文",
+          "hiragana" : "さくぶん",
+          "romaji" : "sakubun",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "作文",
+          "pinyin" : "zuò wén" 
+        },
+        "burmese": {
+          "meaning" : "ရေးသားခြင်း" 
+        },
+        "korean": {
+          "meaning" : "작문",
+          "reading" : "jakmun" 
+        }
+      },
+      {
+        "id": 35,
+        "word": "useful, convenient",
+        "type": "adjective",
+        "japanese": {
+          "meaning": "便利",
+          "hiragana" : "べんり",
+          "romaji" : "benri",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "方便",
+          "pinyin" : "fāng biàn" 
+        },
+        "burmese": {
+          "meaning" : "အဆင်ပြေသော။အသုံးဝင်သော" 
+        },
+        "korean": {
+          "meaning" : "편리한",
+          "reading" : "pyeonrihan" 
+        }
+      },
+      {
+        "id": 36,
+        "word": "right side",
+        "type": "noun phrase",
+        "japanese": {
+          "meaning": "右側",
+          "hiragana" : "みぎがわ",
+          "romaji" : "migigawa",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "右边",
+          "pinyin" : "yòu biān" 
+        },
+        "burmese": {
+          "meaning" : "ညာဘက်" 
+        },
+        "korean": {
+          "meaning" : "오른쪽",
+          "reading" : "oreunjjok" 
+        }
+      },
+      {
+        "id": 37,
+        "word": "cold",
+        "type": "adjective",
+        "japanese": {
+          "meaning": "寒い",
+          "hiragana" : "さむい",
+          "romaji" : "samui",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "冷",
+          "pinyin" : "lěng" 
+        },
+        "burmese": {
+          "meaning" : "အေးသော" 
+        },
+        "korean": {
+          "meaning" : "추운",
+          "reading" : "chu-un" 
+        }
+      },{
+        "id": 38,
+        "word": "to bathe, to shower",
+        "type": "verb",
+        "japanese": {
+          "meaning": "お風呂に入る",
+          "hiragana" : "お風呂に入る",
+          "romaji" : "ofuro ni hairu",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "洗澡",
+          "pinyin" : "xǐ zǎo" 
+        },
+        "burmese": {
+          "meaning" : "ရေချိုးသည်။" 
+        },
+        "korean": {
+          "meaning" : "목욕하다",
+          "reading" : "mokyokhada" 
+        }
+      },
+      {
+        "id": 39,
+        "word": "ten",
+        "type": "number",
+        "japanese": {
+          "meaning": "十",
+          "hiragana" : "じゅう",
+          "romaji" : "jū",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "十",
+          "pinyin" : "shí" 
+        },
+        "burmese": {
+          "meaning" : "ဆယ်" 
+        },
+        "korean": {
+          "meaning" : "열",
+          "reading" : "yeol" 
+        }
+      },
+      {
+        "id": 40,
+        "word": "middle",
+        "type": "noun",
+        "japanese": {
+          "meaning": "真ん中",
+          "hiragana" : "まん中",
+          "romaji" : "mannaka",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "中间",
+          "pinyin" : "zhōng jiān" 
+        },
+        "burmese": {
+          "meaning" : "အလယ်" 
+        },
+        "korean": {
+          "meaning" : "중간",
+          "reading" : "jung-gan" 
+        }
+      },
+      {
+        "id": 41,
+        "word": "to erase, to turn off power",
+        "type": "verb",
+        "japanese": {
+          "meaning": "消す",
+          "hiragana" : "けす",
+          "romaji" : "kesu",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "擦掉/关掉",
+          "pinyin" : "cā diào/guān diào" 
+        },
+        "burmese": {
+          "meaning" : "ဖျက်သည်။ပိတ်သည်" 
+        },
+        "korean": {
+          "meaning" : "지우다/전원을 끄다",
+          "reading" : "jiuda/jeon-won-eul kkeuda" 
+        }
+      },
+      {
+        "id": 42,
+        "word": "near",
+        "type": "preposition",
+        "japanese": {
+          "meaning": "近く",
+          "hiragana" : "ちかく",
+          "romaji" : "chikaku",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "附近",
+          "pinyin" : "fù jìn" 
+        },
+        "burmese": {
+          "meaning" : "နီးသော" 
+        },
+        "korean": {
+          "meaning" : "가까이",
+          "reading" : "gakkai" 
+        }
+      },
+      {
+        "id": 43,
+        "word": "seven",
+        "type": "number",
+        "japanese": {
+          "meaning": "七",
+          "hiragana" : "なな",
+          "romaji" : "nana",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "七",
+          "pinyin" : "qī" 
+        },
+        "burmese": {
+          "meaning" : "ခုနစ်" 
+        },
+        "korean": {
+          "meaning" : "일곱",
+          "reading" : "ilgop" 
+        }
+      },
+      {
+        "id": 44,
+        "word": "tape recorder",
+        "type": "noun",
+        "japanese": {
+          "meaning": "テープレコーダー",
+          "hiragana" : "テープレコーダー",
+          "romaji" : "tēpurekōdā",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "录音机",
+          "pinyin" : "lù yīn jī" 
+        },
+        "burmese": {
+          "meaning" : "တိပ် သံသွင်းစက်" 
+        },
+        "korean": {
+          "meaning" : "테이프 레코더",
+          "reading" : "teipeu rekodeo" 
+        }
+      },
+      {
+        "id": 45,
+        "word": "eye",
+        "type": "noun",
+        "japanese": {
+          "meaning": "目",
+          "hiragana" : "め",
+          "romaji" : "me",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "眼睛",
+          "pinyin" : "yǎn jīng" 
+        },
+        "burmese": {
+          "meaning" : "မျက်လုံး" 
+        },
+        "korean": {
+          "meaning" : "눈",
+          "reading" : "nun" 
+        }
+      },
+      {
+        "id": 46,
+        "word": "sky",
+        "type": "noun",
+        "japanese": {
+          "meaning": "空",
+          "hiragana" : "そら",
+          "romaji" : "sora",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "天空",
+          "pinyin" : "tiān kōng" 
+        },
+        "burmese": {
+          "meaning" : "ကောင်းကင်" 
+        },
+        "korean": {
+          "meaning" : "하늘",
+          "reading" : "haneul" 
+        }
+      },
+      {
+        "id": 47,
+        "word": "six days",
+        "type": "noun phrase",
+        "japanese": {
+          "meaning": "六日",
+          "hiragana" : "むいか",
+          "romaji" : "muika",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "六天",
+          "pinyin" : "liù tiān" 
+        },
+        "burmese": {
+          "meaning" : "ခြောက်ရက်" 
+        },
+        "korean": {
+          "meaning" : "엿새",
+          "reading" : "yeot-sae" 
+        }
+      },
+      
+      {
+        "id": 48,
+        "word": "sixth day of the month",
+        "type": "noun phrase",
+        "japanese": {
+          "meaning": "六日",
+          "hiragana" : "むいか",
+          "romaji" : "muika",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "六号",
+          "pinyin" : "liù hào" 
+        },
+        "burmese": {
+          "meaning" : "ခြောက်ရက်နေ့" 
+        },
+        "korean": {
+          "meaning" : "6일",
+          "reading" : "yu-il" 
+        }
+      },
+      {
+        "id": 49,
+        "word": "to sit",
+        "type": "verb",
+        "japanese": {
+          "meaning": "座る",
+          "hiragana" : "すわる",
+          "romaji" : "suwaru",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "坐",
+          "pinyin" : "zuò" 
+        },
+        "burmese": {
+          "meaning" : "ထိုင်သည်။" 
+        },
+        "korean": {
+          "meaning" : "앉다",
+          "reading" : "anda" 
+        }
+      },
+      {
+        "id": 50,
+        "word": "year",
+        "type": "noun",
+        "japanese": {
+          "meaning": "年",
+          "hiragana" : "とし",
+          "romaji" : "toshi",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "年",
+          "pinyin" : "nián" 
+        },
+        "burmese": {
+          "meaning" : "နှစ်" 
+        },
+        "korean": {
+          "meaning" : "년",
+          "reading" : "nyeon" 
+        }
+      },
+      {
+        "id": 51,
+        "word": "boy",
+        "type": "noun",
+        "japanese": {
+          "meaning": "男の子",
+          "hiragana" : "おとこのこ",
+          "romaji" : "otokonoko",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "男孩",
+          "pinyin" : "nán hái" 
+        },
+        "burmese": {
+          "meaning" : "ယောက်ျားလေး" 
+        },
+        "korean": {
+          "meaning" : "소년",
+          "reading" : "so-nyeon" 
+        }
+      },
+      {
+        "id": 52,
+        "word": "girl",
+        "type": "noun",
+        "japanese": {
+          "meaning": "女の子",
+          "hiragana" : "おんなのこ",
+          "romaji" : "onnanoko",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "女孩",
+          "pinyin" : "nǚ hái" 
+        },
+        "burmese": {
+          "meaning" : "မိန်းမလေး" 
+        },
+        "korean": {
+          "meaning" : "소녀",
+          "reading" : "so-nyeo" 
+        }
+      },
+      {
+        "id": 53,
+        "word": "narrow",
+        "type": "adjective",
+        "japanese": {
+          "meaning": "狭い",
+          "hiragana" : "せまい",
+          "romaji" : "semai",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "狭窄",
+          "pinyin" : "xiá zhai" 
+        },
+        "burmese": {
+          "meaning" : "ကျဉ်းမြောင်းသော" 
+        },
+        "korean": {
+          "meaning" : "좁은",
+          "reading" : "jobeun" 
+        }
+      },
+      {
+        "id": 54,
+        "word": "refrigerator",
+        "type": "noun",
+        "japanese": {
+          "meaning": "冷蔵庫",
+          "hiragana" : "れいぞうこ",
+          "romaji" : "reizōko",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "冰箱",
+          "pinyin" : "bīng xiāng" 
+        },
+        "burmese": {
+          "meaning" : "ရေခဲသေတ္တာ" 
+        },
+        "korean": {
+          "meaning" : "냉장고",
+          "reading" : "naengjanggo" 
+        }
+      },{
+        "id": 55,
+        "word": "camera",
+        "type": "noun",
+        "japanese": {
+          "meaning": "カメラ",
+          "hiragana" : "カメラ",
+          "romaji" : "kamera",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "相机",
+          "pinyin" : "xiàng jī" 
+        },
+        "burmese": {
+          "meaning" : "ကင်မရာ" 
+        },
+        "korean": {
+          "meaning" : "카메라",
+          "reading" : "kame-ra" 
+        }
+      },
+      {
+        "id": 56,
+        "word": "entry hall",
+        "type": "noun",
+        "japanese": {
+          "meaning": "玄関",
+          "hiragana" : "げんかん",
+          "romaji" : "genkan",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "玄关",
+          "pinyin" : "xuán guān" 
+        },
+        "burmese": {
+          "meaning" : "ဝင်ပေါက်" 
+        },
+        "korean": {
+          "meaning" : "현관",
+          "reading" : "hyeon-gwan" 
+        }
+      },
+      {
+        "id": 57,
+        "word": "to differ",
+        "type": "verb",
+        "japanese": {
+          "meaning": "違う",
+          "hiragana" : "ちがう",
+          "romaji" : "chigau",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "不同",
+          "pinyin" : "bù tóng" 
+        },
+        "burmese": {
+          "meaning" : "ကွာခြားသည်။" 
+        },
+        "korean": {
+          "meaning" : "다르다",
+          "reading" : "dareuda" 
+        }
+      },
+      {
+        "id": 58,
+        "word": "dangerous",
+        "type": "adjective",
+        "japanese": {
+          "meaning": "危険",
+          "hiragana" : "きけん",
+          "romaji" : "kiken",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "危险",
+          "pinyin" : "wēi xiǎn" 
+        },
+        "burmese": {
+          "meaning" : "အန္တရာယ်ရှိသော" 
+        },
+        "korean": {
+          "meaning" : "위험한",
+          "reading" : "wi-heom-han" 
+        }
+      },{
+        "id": 59,
+        "word": "to be understood",
+        "type": "verb",
+        "japanese": {
+          "meaning": "わかる",
+          "hiragana" : "わかる",
+          "romaji" : "wakaru",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "明白",
+          "pinyin" : "míng bái" 
+        },
+        "burmese": {
+          "meaning" : "နားလည်သည်" 
+        },
+        "korean": {
+          "meaning" : "이해하다",
+          "reading" : "ihaehada" 
+        }
+      },{
+        "id": 60,
+        "word": "to say",
+        "type": "verb",
+        "japanese": {
+          "meaning": "言う",
+          "hiragana" : "いう",
+          "romaji" : "iu",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "说",
+          "pinyin" : "shuō" 
+        },
+        "burmese": {
+          "meaning" : "ပြောသည်" 
+        },
+        "korean": {
+          "meaning" : "말하다",
+          "reading" : "malhada" 
+        }
+      },
+      {
+        "id": 61,
+        "word": "to drink",
+        "type": "verb",
+        "japanese": {
+          "meaning": "飲む",
+          "hiragana" : "のむ",
+          "romaji" : "nomu",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "喝",
+          "pinyin" : "hē" 
+        },
+        "burmese": {
+          "meaning" : "သောက်သည်" 
+        },
+        "korean": {
+          "meaning" : "마시다",
+          "reading" : "masida" 
+        }
+      },
+      {
+        "id": 62,
+        "word": "to practice",
+        "type": "verb",
+        "japanese": {
+          "meaning": "練習する",
+          "hiragana" : "れんしゅうする",
+          "romaji" : "renshū suru",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "练习",
+          "pinyin" : "liàn xí" 
+        },
+        "burmese": {
+          "meaning" : "လေ့ကျင့်သည်" 
+        },
+        "korean": {
+          "meaning" : "연습하다",
+          "reading" : "yeonseuphada" 
+        }
+      },
+      {
+        "id": 63,
+        "word": "what",
+        "type": "pronoun",
+        "japanese": {
+          "meaning": "何",
+          "hiragana" : "なに",
+          "romaji" : "nani",
+          "level" : 5
+        },
+        "chinese": {
+          "meaning" : "什么",
+          "pinyin" : "shén me" 
+        },
+        "burmese": {
+          "meaning" : "ဘာလဲ" 
+        },
+        "korean": {
+          "meaning" : "뭐",
+          "reading" : "mwo" 
+        }
+      },{
+        "id": 64,
+        "word": "kind",
+        "type": "adjective",
+        "japanese": {
+          "meaning": "親切な",
+          "hiragana": "しんせつな",
+          "romaji": "shinsetsuna",
+          "level": 5
+        },
+        "chinese": {
+          "meaning": "善良的",
+          "pinyin": "shàn liáng de"
+        },
+        "burmese": {
+          "meaning": "ကြင်နာတတ်သော"
+        },
+        "korean": {
+          "meaning": "친절한",
+          "reading": "chinjeolhan"
+        }
+      },
+      {
+        "id": 65,
+        "word": "deep",
+        "type": "adjective",
+        "japanese": {
+          "meaning": "深い",
+          "hiragana": "ふかい",
+          "romaji": "fukai",
+          "level": 5
+        },
+        "chinese": {
+          "meaning": "深的",
+          "pinyin": "shēn de"
+        },
+        "burmese": {
+          "meaning": "နက်ရှိုင်းသော"
+        },
+        "korean": {
+          "meaning": "깊은",
+          "reading": "gipeun"
+        }
+      },
+      {
+        "id": 66,
+        "word": "thick, kind, deep",
+        "type": "adjective",
+        "japanese": {
+          "meaning": "厚い",
+          "hiragana": "あつい",
+          "romaji": "atsui",
+          "level": 5
+        },
+        "chinese": {
+          "meaning": "厚的/深的/善良的",
+          "pinyin": "hòu de/shēn de/shàn liáng de"
+        },
+        "burmese": {
+          "meaning": "ထူသော။ကြင်နာတတ်သော။နက်ရှိုင်းသော"
+        },
+        "korean": {
+          "meaning": "두꺼운/깊은/친절한",
+          "reading": "dukkeoun/gipeun/chinjeolhan"
+        }
+      },{
+        "id": 67,
+        "word": "every month",
+        "type": "adverb phrase",
+        "japanese": {
+          "meaning": "毎月",
+          "hiragana": "まいつき/まいげつ",
+          "romaji": "maitsuki/maigetsu",
+          "level": 5
+        },
+        "chinese": {
+          "meaning": "每月",
+          "pinyin": "měi yuè"
+        },
+        "burmese": {
+          "meaning": "လစဉ်"
+        },
+        "korean": {
+          "meaning": "매달",
+          "reading": "mae-dal"
+        }
+      },
+      {
+        "id": 68,
+        "word": "to take off clothes",
+        "type": "verb phrase",
+        "japanese": {
+          "meaning": "服を脱ぐ",
+          "hiragana": "ふくをぬぐ",
+          "romaji": "fuku o nugu",
+          "level": 5
+        },
+        "chinese": {
+          "meaning": "脱衣服",
+          "pinyin": "tuō yī fú"
+        },
+        "burmese": {
+          "meaning": "အဝတ်အစားချွတ်သည်။အင်္ကျီိချွတ်သည်။"
+        },
+        "korean": {
+          "meaning": "옷을 벗다",
+          "reading": "oseul beotda"
+        }
+      },
+      {
+        "id": 69,
+        "word": "black",
+        "type": "adjective",
+        "japanese": {
+          "meaning": "黒い",
+          "hiragana": "くろい",
+          "romaji": "kuroi",
+          "level": 5
+        },
+        "chinese": {
+          "meaning": "黑色的",
+          "pinyin": "hēi sè de"
+        },
+        "burmese": {
+          "meaning": "မဲသော"
+        },
+        "korean": {
+          "meaning": "검은색",
+          "reading": "geom-eun-saek"
+        }
+      },
+      {
+        "id": 70,
+        "word": "to climb",
+        "type": "verb",
+        "japanese": {
+          "meaning": "登る",
+          "hiragana": "のぼる",
+          "romaji": "noboru",
+          "level": 5
+        },
+        "chinese": {
+          "meaning": "爬",
+          "pinyin": "pá"
+        },
+        "burmese": {
+          "meaning": "တက်သည်"
+        },
+        "korean": {
+          "meaning": "오르다",
+          "reading": "oreuda"
+        }
+      },
+      {
+        "id": 71,
+        "word": "dirty",
+        "type": "adjective",
+        "japanese": {
+          "meaning": "汚い",
+          "hiragana": "きたない",
+          "romaji": "kitanai",
+          "level": 5
+        },
+        "chinese": {
+          "meaning": "脏的",
+          "pinyin": "zāng de"
+        },
+        "burmese": {
+          "meaning": "ညစ်ပတ်သော။ညစ်ညမ်းသော"
+        },
+        "korean": {
+          "meaning": "더러운",
+          "reading": "deoreoun"
+        }
+      },
+      {
+        "id": 72,
+        "word": "rain",
+        "type": "noun",
+        "japanese": {
+          "meaning": "雨",
+          "hiragana": "あめ",
+          "romaji": "ame",
+          "level": 5
+        },
+        "chinese": {
+          "meaning": "雨",
+          "pinyin": "yǔ"
+        },
+        "burmese": {
+          "meaning": "မိုး"
+        },
+        "korean": {
+          "meaning": "비",
+          "reading": "bi"
+        }
+      },
+      {
+        "id": 73,
+        "word": "plate, dish",
+        "type": "noun",
+        "japanese": {
+          "meaning": "お皿",
+          "hiragana": "おさら",
+          "romaji": "osara",
+          "level": "N5"
+        },
+        "chinese": {
+          "meaning": "盘子",
+          "pinyin": "pán zi"
+        },
+        "burmese": {
+          "meaning": "ပန်းကန်"
+        },
+        "korean": {
+          "meaning": "접시",
+          "reading": "jeopsi"
+        }
+      },
+      {
+        "id": 74,
+        "word": "quick",
+        "type": "adjective",
+        "japanese": {
+          "meaning": "速い",
+          "hiragana": "はやい",
+          "romaji": "hayai",
+          "level": "N5"
+        },
+        "chinese": {
+          "meaning": "快的",
+          "pinyin": "kuài de"
+        },
+        "burmese": {
+          "meaning": "မြန်သော။လျင်သော"
+        },
+        "korean": {
+          "meaning": "빠른",
+          "reading": "ppaleun"
+        }
+      },
+      {
+        "id": 75,
+        "word": "bath",
+        "type": "noun",
+        "japanese": {
+          "meaning": "お風呂",
+          "hiragana": "お風呂",
+          "romaji": "ofuro",
+          "level": 5 
+        },
+        "chinese": {
+          "meaning": "洗澡",
+          "pinyin": "xǐ zǎo" 
+        },
+        "burmese": {
+          "meaning": "ရေချိုးခြင်း" 
+        },
+        "korean": {
+          "meaning": "목욕",
+          "reading": "mokyok" 
+        }
+      },
+      {
+        "id": 76,
+        "word": "new",
+        "type": "adjective",
+        "japanese": {
+          "meaning": "新しい",
+          "hiragana": "あたらしい",
+          "romaji": "atarashii",
+          "level": 5
+        },
+        "chinese": {
+          "meaning": "新的",
+          "pinyin": "xīn de" 
+        },
+        "burmese": {
+          "meaning": "အသစ်" 
+        },
+        "korean": {
+          "meaning": "새로운",
+          "reading": "saero-un" 
+        }
+      },
+      {
+        "id": 77,
+        "word": "corridor",
+        "type": "noun",
+        "japanese": {
+          "meaning": "廊下",
+          "hiragana": "ろうか",
+          "romaji": "rōka",
+          "level": 5
+        },
+        "chinese": {
+          "meaning": "走廊",
+          "pinyin": "zǒu láng" 
+        },
+        "burmese": {
+          "meaning": "စင်္ကြံလမ်း။လျှောက်လမ်း"
+        },
+        "korean": {
+          "meaning": "복도",
+          "reading": "bokdo" 
+        }
+      },
+      {
+        "id": 78,
+        "word": "brown",
+        "type": "adjective",
+        "japanese": {
+          "meaning": "茶色",
+          "hiragana": "ちゃいろ",
+          "romaji": "chairo",
+          "level": 5 
+        },
+        "chinese": {
+          "meaning": "棕色的",
+          "pinyin": "zōng sè de" 
+        },
+        "burmese": {
+          "meaning": "ညိုသော" 
+        },
+        "korean": {
+          "meaning": "갈색",
+          "reading": "gal-saek" 
+        }
+      },
+      {
+        "id": 79,
+        "word": "coat",
+        "type": "noun",
+        "japanese": {
+          "meaning": "コート",
+          "hiragana": "コート",
+          "romaji": "kōto",
+          "level": 5
+        },
+        "chinese": {
+          "meaning": "外套",
+          "pinyin": "wài tāo"
+        },
+        "burmese": {
+          "meaning": "အင်္ကျီအပြင်။ကုတ်အင်္ကျီ"
+        },
+        "korean": {
+          "meaning": "코트",
+          "reading": "koteu"
+        }
+      },
+      {
+        "id": 81,
+        "word": "letter",
+        "type": "noun",
+        "japanese": {
+          "meaning": "手紙",
+          "hiragana": "てがみ",
+          "romaji": "tegami",
+          "level": 5
+        },
+        "chinese": {
+          "meaning": "信",
+          "pinyin": "xìn"
+        },
+        "burmese": {
+          "meaning": "စာ"
+        },
+        "korean": {
+          "meaning": "편지",
+          "reading": "pyeonji"
+        }
+      },
+      {
+        "id": 82,
+        "word": "to need",
+        "type": "verb",
+        "japanese": {
+          "meaning": "必要とする",
+          "hiragana": "ひつようとする",
+          "romaji": "hitsuyō tosuru",
+          "level": "N5"
+        },
+        "chinese": {
+          "meaning": "需要",
+          "pinyin": "xū yào"
+        },
+        "burmese": {
+          "meaning": "လိုအပ်သည်"
+        },
+        "korean": {
+          "meaning": "필요하다",
+          "reading": "piryohada"
+        }
+      },
+      
+        {
+          "id": 83,
+          "word": "this person",
+          "type": "pronoun",
+          "japanese": {
+            "meaning": "この人",
+            "hiragana": "このひと",
+            "romaji": "kono hito",
+            "level": 5
+          },
+          "chinese": {
+            "meaning": "这个人",
+            "pinyin": "zhè ge rén"
+          },
+          "burmese": {
+            "meaning": "ဒီလူ"
+          },
+          "korean": {
+            "meaning": "이 사람",
+            "reading": "i saram"
+          }
+        },
+        {
+          "id": 84,
+          "word": "this way",
+          "type": "adverb phrase",
+          "japanese": {
+            "meaning": "このように",
+            "hiragana": "このように",
+            "romaji": "kono yō ni",
+            "level": 5
+          },
+          "chinese": {
+            "meaning": "这样",
+            "pinyin": "zhè yàng"
+          },
+          "burmese": {
+            "meaning": "ဒီလို"
+          },
+          "korean": {
+            "meaning": "이렇게",
+            "reading": "ireoke"
+          }
+        }
+      ,
+      {
+  "id": 85,
+  "word": "kotchi",
+  "type": "pronoun",
+  "japanese": {
+    "meaning": "こっち",
+    "hiragana": "こっち",
+    "romaji": "kotchi",
+    "level": 5
+  },
+  "chinese": {
+    "meaning": "这边",
+    "pinyin": "zhè biān"
+  },
+  "burmese": {
+    "meaning": "ဒီဘက်"
+  },
+  "korean": {
+    "meaning": "이쪽",
+    "reading": "ijjok"
+  }
+},
+{
+  "id": 86,
+  "word": "spoon",
+  "type": "noun",
+  "japanese": {
+    "meaning": "スプーン",
+    "hiragana": "スプーン",
+    "romaji": "supūn",
+    "level": 5
+  },
+  "chinese": {
+    "meaning": "勺子",
+    "pinyin": "sháo zi"
+  },
+  "burmese": {
+    "meaning": "ဇွန်း"
+  },
+  "korean": {
+    "meaning": "숟가락",
+    "reading": "sutgarak"
+  }
+},
+{
+  "id": 87,
+  "word": "sometimes",
+  "type": "adverb",
+  "japanese": {
+    "meaning": "時々",
+    "hiragana": "ときどき",
+    "romaji": "tokidoki",
+    "level": 5
+  },
+  "chinese": {
+    "meaning": "有时",
+    "pinyin": "yǒu shí"
+  },
+  "burmese": {
+    "meaning": "တစ်ခါတစ်ရံ"
+  },
+  "korean": {
+    "meaning": "때때로",
+    "reading": "ttae-ttaero"
+  }
+},
+{
+  "id": 88,
+  "word": "umbrella",
+  "type": "noun",
+  "japanese": {
+    "meaning": "傘",
+    "hiragana": "かさ",
+    "romaji": "kasa",
+    "level": 5
+  },
+  "chinese": {
+    "meaning": "伞",
+    "pinyin": "sǎn"
+  },
+  "burmese": {
+    "meaning": "ထီး"
+  },
+  "korean": {
+    "meaning": "우산",
+    "reading": "usan"
+  }
+},
+{
+  "id": 89,
+  "word": "good",
+  "type": "adjective",
+  "japanese": {
+    "meaning": "良い/よい",
+    "hiragana": "いい/よい",
+    "romaji": "ii / yoi",
+    "level": 5
+  },
+  "chinese": {
+    "meaning": "好",
+    "pinyin": "hǎo"
+  },
+  "burmese": {
+    "meaning": "ကောင်းသော"
+  },
+  "korean": {
+    "meaning": "좋은",
+    "reading": "joeun"
+  }
+},
+{
+  "id": 91,
+  "word": "telephone",
+  "type": "noun",
+  "japanese": {
+    "meaning": "電話",
+    "hiragana": "でんわ",
+    "romaji": "denwa",
+    "level": 5
+  },
+  "chinese": {
+    "meaning": "电话",
+    "pinyin": "diàn huà"
+  },
+  "burmese": {
+    "meaning": "ဖုန်း။တယ်လီဖုန်း"
+  },
+  "korean": {
+    "meaning": "전화",
+    "reading": "jeonhwa"
+  }
+},
+{
+  "id": 93,
+  "word": "to work for someone",
+  "type": "verb",
+  "japanese": {
+    "meaning": "勤める",
+    "hiragana": "つとめる",
+    "romaji": "tsutomeru",
+    "level": 5
+  },
+  "chinese": {
+    "meaning": "工作",
+    "pinyin": "gōng zuò"
+  },
+  "burmese": {
+    "meaning": "အလုပ်လုပ်သည်။တစ်စုံတစ်ယောက်အတွက် အလုပ်လုပ်သည်။"
+  },
+  "korean": {
+    "meaning": "일하다",
+    "reading": "ilhada"
+  }
+},
+{
+  "id": 94,
+  "word": "cheap",
+  "type": "adjective",
+  "japanese": {
+    "meaning": "安い",
+    "hiragana": "やすい",
+    "romaji": "yasui",
+    "level": 5
+  },
+  "chinese": {
+    "meaning": "便宜的",
+    "pinyin": "piányi de"
+  },
+  "burmese": {
+    "meaning": "စျေးသက်သာသော"
+  },
+  "korean": {
+    "meaning": "싼",
+    "reading": "ssan"
+  }
+},
+
+  {
+    "id": 95,
+    "word": "how",
+    "type": "adverb",
+    "japanese": {
+      "meaning": "どのように",
+      "hiragana": "どのように",
+      "romaji": "dō ni shite",
+      "level": 5
+    },
+    "chinese": {
+      "meaning": "如何",
+      "pinyin": "rú hé"
+    },
+    "burmese": {
+      "meaning": "ဘယ်လို"
+    },
+    "korean": {
+      "meaning": "어떻게",
+      "reading": "eotteoke"
+    }
+  },
+  {
+    "id": 96,
+    "word": "in what way",
+    "type": "adverb phrase",
+    "japanese": {
+      "meaning": "どのように",
+      "hiragana": "どのように",
+      "romaji": "dō ni shite",
+      "level": 5
+    },
+    "chinese": {
+      "meaning": "以什么方式",
+      "pinyin": "yǐ shén me fāng shì"
+    },
+    "burmese": {
+      "meaning": "ဘယ်လိုနည်း"
+    },
+    "korean": {
+      "meaning": "어떤 방식으로",
+      "reading": "eotteon bangsik-euro"
+    }
+  },
+  {
+    "id": 98,
+    "word": "street",
+    "type": "noun",
+    "japanese": {
+      "meaning": "通り",
+      "hiragana": "とおり",
+      "romaji": "tōri",
+      "level": "N5"
+    },
+    "chinese": {
+      "meaning": "街道",
+      "pinyin": "jiē dào"
+    },
+    "burmese": {
+      "meaning": "လမ်း"
+    },
+    "korean": {
+      "meaning": "거리",
+      "reading": "geori"
+    }
+  },
+  {
+    "id": 99,
+    "word": "bus",
+    "type": "noun",
+    "japanese": {
+      "meaning": "バス",
+      "hiragana": "バス",
+      "romaji": "basu",
+      "level": "N5"
+    },
+    "chinese": {
+      "meaning": "公交车",
+      "pinyin": "gōng jiāo chē"
+    },
+    "burmese": {
+      "meaning": "ဘပ်(စ်)ကား"
+    },
+    "korean": {
+      "meaning": "버스",
+      "reading": "beoseu"
+    }
+  },
+  {
+    "id": 100,
+    "word": "class",
+    "type": "noun",
+    "japanese": {
+      "meaning": "クラス",
+      "hiragana": "クラス",
+      "romaji": "kurasu",
+      "level": "N5"
+    },
+    "chinese": {
+      "meaning": "班级",
+      "pinyin": "bān jí"
+    },
+    "burmese": {
+      "meaning": "အတန်း"
+    },
+    "korean": {
+      "meaning": "수업",
+      "reading": "sueob"
+    }
+  },
+  {
+    "id": 101,
+    "word": "to stab,to prick something into something else",
+    "type": "verb",
+    "japanese": {
+      "meaning": "さす",
+      "hiragana": "さす",
+      "romaji": "sasu",
+      "level": "N5" 
+    },
+    "chinese": {
+      "meaning": "刺",
+      "pinyin": "cì" 
+    },
+    "burmese": {
+      "meaning": "ထိုးသည်။(ဓားဖြင့်,etc..)" 
+    },
+    "korean": {
+      "meaning": "찌르다",
+      "reading": "jjireuda" 
+    }
+  },
+  {
+    "id": 102,
+    "word": "to hold up(an umbrella)",
+    "type": "verb",
+    "japanese": {
+      "meaning": "差す(傘)",
+      "hiragana": "さす(かさを)",
+      "romaji": "sasu",
+      "level": "N5"
+    },
+    "chinese": {
+      "meaning": "撑",
+      "pinyin": "chēng"
+    },
+    "burmese": {
+      "meaning": "ကိုင်သည်။(ထီး,etc.)"
+    },
+    "korean": {
+      "meaning": "펴다",
+      "reading": "pyeoda"
+    }
+  },
+  {
+    "id": 103,
+    "word": "sport",
+    "type": "noun",
+    "japanese": {
+      "meaning": "スポーツ",
+      "hiragana": "スポーツ",
+      "romaji": "supōtsu",
+      "level": "N5"
+    },
+    "chinese": {
+      "meaning": "运动",
+      "pinyin": "yùn dòng"
+    },
+    "burmese": {
+      "meaning": "အားကစား"
+    },
+    "korean": {
+      "meaning": "스포츠",
+      "reading": "seupucheu"
+    }
+  },
+  {
+    "id": 104,
+    "word": "which",
+    "type": "pronoun",
+    "japanese": {
+      "meaning": "どっち",
+      "hiragana": "どっち",
+      "romaji": "dotchi",
+      "level": "N5" 
+    },
+    "chinese": {
+      "meaning": "哪个",
+      "pinyin": "nǎ ge" 
+    },
+    "burmese": {
+      "meaning": "မည်သည့်" 
+    },
+    "korean": {
+      "meaning": "어느",
+      "reading": "eoneu" 
+    }
+  },
+  {
+    "id": 105,
+    "word": "which",
+    "type": "pronoun",
+    "japanese": {
+      "meaning": "どっち",
+      "hiragana": "どっち",
+      "romaji": "dotchi",
+      "level": "N5" 
+    },
+    "chinese": {
+      "meaning": "哪个",
+      "pinyin": "nǎ ge" 
+    },
+    "burmese": {
+      "meaning": "မည်သည့်" 
+    },
+    "korean": {
+      "meaning": "어느",
+      "reading": "eoneu" 
+    }
+  },
+  {
+    "id": 106,
+    "word": "soba",
+    "type": "noun",
+    "japanese": {
+      "meaning": "そば",
+      "hiragana": "そば",
+      "romaji": "soba",
+      "level": "N5"
+    },
+    "chinese": {
+      "meaning": "荞麦面",
+      "pinyin": "qiáo mài miàn"
+    },
+    "burmese": {
+      "meaning": "ပန်းဂျုံခေါက်ဆွဲ"
+    },
+    "korean": {
+      "meaning": "소바",
+      "reading": "soba"
+    }
+  },
+  {
+    "id": 107,
+    "word": "newspaper",
+    "type": "noun",
+    "japanese": {
+      "meaning": "新聞",
+      "hiragana": "しんぶん",
+      "romaji": "shinbun",
+      "level": "N5"
+    },
+    "chinese": {
+      "meaning": "报纸",
+      "pinyin": "bào zhǐ"
+    },
+    "burmese": {
+      "meaning": "သတင်းစာ"
+    },
+    "korean": {
+      "meaning": "신문",
+      "reading": "sinmun"
+    }
+  },
+  {
+    "id": 108,
+    "word": "for what reason",
+    "type": "adverb",
+    "japanese": {
+      "meaning": "どうして",
+      "hiragana": "どうして",
+      "romaji": "dō shite",
+      "level": "N5"
+    },
+    "chinese": {
+      "meaning": "为什么",
+      "pinyin": "wèi shén me"
+    },
+    "burmese": {
+      "meaning": "ဘာကြောင့်"
+    },
+    "korean": {
+      "meaning": "왜",
+      "reading": "wae"
+    }
+  },
+  {
+    "id": 109,
+    "word": "garden",
+    "type": "noun",
+    "japanese": {
+      "meaning": "庭",
+      "hiragana": "にわ",
+      "romaji": "niwa",
+      "level": "N5"
+    },
+    "chinese": {
+      "meaning": "花园",
+      "pinyin": "huā yuán"
+    },
+    "burmese": {
+      "meaning": "ဥယျာဉ်"
+    },
+    "korean": {
+      "meaning": "정원",
+      "reading": "jeongwon"
+    }
+  },{
+  "id": 110,
+  "word": "big",
+  "type": "adjective",
+  "japanese": {
+    "meaning": "大きい",
+    "hiragana": "おおきい",
+    "romaji": "ōkii",
+    "level": "N5"
+  },
+  "chinese": {
+    "meaning": "大的",
+    "pinyin": "dà de"
+  },
+  "burmese": {
+    "meaning": "ကြီးသော"
+  },
+  "korean": {
+    "meaning": "큰",
+    "reading": "kkeun"
+  }
+}
+
+
+  
+
+
+
+
+
+
+
+      
+
+
+
+
+
+      
+
+    
+      
+
+
+
+
+
+
+      
+
+
+      
+
+
+      
+
+
+
+
+]
